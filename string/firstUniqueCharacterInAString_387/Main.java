@@ -1,4 +1,4 @@
-package codingDrills.string.FirstUniqueCharacterInAString_387;
+package codingDrills.string.firstUniqueCharacterInAString_387;
 
 public class Main {
     public static void main(String[] args) {

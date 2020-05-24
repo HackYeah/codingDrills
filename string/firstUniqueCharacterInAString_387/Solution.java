@@ -1,6 +1,4 @@
-package codingDrills.string.FirstUniqueCharacterInAString_387;
-
-import java.util.HashMap;
+package codingDrills.string.firstUniqueCharacterInAString_387;
 
 public class Solution {
     public int firstUniqChar(String s){
