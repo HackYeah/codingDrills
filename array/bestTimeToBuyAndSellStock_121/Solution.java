@@ -1,4 +1,4 @@
-package codingDrills.array.bestTimeToBuyAndSellStock;
+package codingDrills.array.bestTimeToBuyAndSellStock_121;
 /*
 Say you have an array for which the ith element is the price of a given stock on day i.
 

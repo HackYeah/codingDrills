@@ -1,4 +1,4 @@
-package codingDrills.array.bestTimeToBuyAndSellStock;
+package codingDrills.array.bestTimeToBuyAndSellStock_121;
 
 public class Main {
     public static void main(String[] args) {
